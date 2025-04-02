@@ -13,7 +13,6 @@ header {
     /* background-color: #ffcc00; */
     padding: 10px;
     text-align: center;
-    
 }
 
 header img {
@@ -46,18 +45,19 @@ nav ul li a {
     text-decoration: none;
     font-weight: bold;
     transition: color 0.3s;
+    font-size: 120%;
 }
 
 nav ul li a:hover {
     color: #ffd700;
     padding: 3px;
-    font-size: 101%;
+    font-size: 130%;
     text-decoration: underline;
 }
 
 .video-container {
     text-align: center;
-    margin: 20px 0;
+    
 }
 
 .sobre-loja {
@@ -82,13 +82,23 @@ nav ul li a:hover {
 }
 
 #who {
-    background-color: rgb(61, 243, 85);
+    background-color: rgb(39, 204, 61);
+    color: white;
 }
 
 #visit {
+    
     background-color: #ff9900;
+    color: white;
 }
-
+h2 {
+    font-weight: bold;
+    font-size:xx-large;
+}
+h3 {
+    font-weight: bold;
+    
+}
 
 footer {
     background-color: #ffcc00;

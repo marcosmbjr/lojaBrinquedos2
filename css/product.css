@@ -45,12 +45,13 @@
             text-decoration: none;
             font-weight: bold;
             transition: color 0.3s;
+            font-size: 120%;
         }
 
         nav ul li a:hover {
             color: #ffd700;
             padding: 3px;
-            font-size: 101%;
+            font-size: 130%;
             text-decoration: underline;
         }
 
@@ -88,6 +89,7 @@
         .produto p {
             color: #28a745;
             font-weight: bold;
+            font-size: 130%;
         }
 
         footer {
