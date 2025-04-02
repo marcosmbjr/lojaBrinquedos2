@@ -51,7 +51,7 @@ nav ul li a {
 nav ul li a:hover {
     color: #ffd700;
     padding: 3px;
-    font-size: 130%;
+    font-size: 125%;
     text-decoration: underline;
 }
 
@@ -108,4 +108,5 @@ footer {
     width: 100%;
     position: relative;
     margin-top: auto;
+    font-weight: bold;
 }
