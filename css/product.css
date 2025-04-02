@@ -9,14 +9,17 @@
         }
 
         header {
-            background-color: #ffcc00;
+            background-image: url(/img/fundo4.png);
+            /* background-color: #ffcc00; */
             padding: 10px;
             text-align: center;
         }
 
         header img {
-            max-width: 100%;
-            height: auto;
+            width: 60%;
+            max-width: 60%;
+            min-width: 40%;
+            height: 250px;
         }
 
         nav {
@@ -46,6 +49,9 @@
 
         nav ul li a:hover {
             color: #ffd700;
+            padding: 3px;
+            font-size: 101%;
+            text-decoration: underline;
         }
 
         .container {
